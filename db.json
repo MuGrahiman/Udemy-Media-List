@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "name": "Sergio Corkery",
+      "id": 2
+    },
+    {
+      "name": "Mrs. Lynette Kuhn",
+      "id": 3
+    },
+    {
+      "name": "Sean Adams",
+      "id": 4
+    },
+    {
+      "name": "Homer Miller",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "hiking picture",
+      "userId": 4
+    },
+    {
+      "userId": 4,
+      "title": "Bespoke Rubber Ball",
+      "id": 11
+    },
+    {
+      "userId": 3,
+      "title": "Unbranded Soft Pants",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "title": "Oriental Bronze Towels",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Awesome Bronze Mouse",
+      "id": 16
+    },
+    {
+      "userId": 4,
+      "title": "Incredible Fresh Table",
+      "id": 17
+    },
+    {
+      "userId": 5,
+      "title": "Oriental Plastic Gloves",
+      "id": 18
+    },
+    {
+      "userId": 5,
+      "title": "Small Plastic Towels",
+      "id": 19
+    },
+    {
+      "userId": 5,
+      "title": "Oriental Concrete Pizza",
+      "id": 20
+    },
+    {
+      "userId": 4,
+      "title": "Gorgeous Metal Tuna",
+      "id": 21
+    },
+    {
+      "userId": 2,
+      "title": "Bespoke Concrete Hat",
+      "id": 22
+    }
+  ],
+  "photos": []
+}
